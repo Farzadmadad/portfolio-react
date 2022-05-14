@@ -80,7 +80,7 @@ export default function Contact() {
             </form>
 
             <div class="text-center text-md-left">
-              <a href="#" className="cta">
+              <a href="#header" className="cta">
                 Send
               </a>
             </div>

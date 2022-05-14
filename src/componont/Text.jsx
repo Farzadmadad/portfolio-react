@@ -1,5 +1,4 @@
 import React from "react";
-import pic from "./porofil.jpg";
 
 export default function Text() {
   return (

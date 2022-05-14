@@ -19,23 +19,23 @@ export default function Header() {
               </div>
               <ul>
                 <li>
-                  <a href="#" data-after="Home">
+                  <a href="#hero" data-after="Home">
                     Home
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" data-after="Projects">
+                  <a href="#Projects" data-after="Projects">
                     Projects
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-after="About">
+                  <a href="#contact" data-after="About">
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="#" data-after="Contact">
+                  <a href="#contact" data-after="Contact">
                     Contact
                   </a>
                 </li>

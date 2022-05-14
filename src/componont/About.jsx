@@ -5,8 +5,8 @@ import pic2 from "./porofil1.jpg"
 
 export default function About() {
   return (
-    <div>
-              <section id="about">
+    <div id="contact">
+              <section id="contact">
     <div className="about container">
       <div className="col-left">
         <div className="about-img">
@@ -21,7 +21,7 @@ export default function About() {
           exercitationem cumque earum omnis ipsum rem accusantium quis, quas quia, accusamus provident suscipit magni!
           Expedita sint ad dolore, commodi labore nihil velit earum ducimus nulla quae nostrum fugit aut, deserunt
           reprehenderit libero enim!</p>
-        <a href="#" className="cta">Download CV</a>
+        <a href="#contact" className="cta">Download CV</a>
       </div>
     </div>
   </section>
